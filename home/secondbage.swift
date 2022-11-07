@@ -49,7 +49,7 @@ struct secondbage: View {
                         //     .padding()
                     }
                     Spacer()
-                    NavigationLink(destination: Account()) {
+                    NavigationLink(destination: FYP(imagestr: productLists[2])) {
                         Text("Just a visitor")
                             .foregroundColor(Color(UIColor(named: "org")!))
                             .padding(100)

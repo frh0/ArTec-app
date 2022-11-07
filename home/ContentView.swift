@@ -146,7 +146,7 @@ struct ContentView: View {
                               .navigationBarItems(
                                 leading:
                                 NavigationLink(
-                                    destination: Chat(),
+                                    destination: chat(),
                                     label: {
                                     Image(systemName: "bubble.left.and.bubble.right")
                                     })

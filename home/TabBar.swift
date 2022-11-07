@@ -13,7 +13,7 @@ struct TabBar: View {
             ContentView(imagestr: productLists[2])
             .tabItem{
                 Image(systemName: "house")
-                Text("Home")
+                Text("gallary")
             }
       
             ContentViewcam()

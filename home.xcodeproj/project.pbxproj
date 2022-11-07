@@ -31,6 +31,10 @@
 		56F439EF291452DD00C81A36 /* ProductRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F439EE291452DD00C81A36 /* ProductRow.swift */; };
 		56F439F1291452FB00C81A36 /* PaymentButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F439F0291452FB00C81A36 /* PaymentButton.swift */; };
 		56F439F32914531C00C81A36 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F439F22914531C00C81A36 /* Product.swift */; };
+		898892CC29191EB400B15E68 /* intrest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898892CB29191EB400B15E68 /* intrest.swift */; };
+		898892CE29191EE100B15E68 /* post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898892CD29191EE100B15E68 /* post.swift */; };
+		898892D029191EFD00B15E68 /* chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898892CF29191EFD00B15E68 /* chat.swift */; };
+		898892D2291948DB00B15E68 /* FYP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898892D1291948DB00B15E68 /* FYP.swift */; };
 		89CA5AE2291762EE00A38034 /* Camera-SwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 89CA5AE1291762EE00A38034 /* Camera-SwiftUI */; };
 		89CA5B2329176EDD00A38034 /* CamandAlbumApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B2229176EDD00A38034 /* CamandAlbumApp.swift */; };
 		89CA5B2529176F0100A38034 /* ContentViewcam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B2429176F0100A38034 /* ContentViewcam.swift */; };
@@ -46,9 +50,6 @@
 		89CA5B482917AE0A00A38034 /* account2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B472917AE0A00A38034 /* account2.swift */; };
 		89CA5B4A2917AE4900A38034 /* getStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B492917AE4900A38034 /* getStart.swift */; };
 		89CA5B4C2917AE6D00A38034 /* contenview2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B4B2917AE6D00A38034 /* contenview2.swift */; };
-		89CA5B4E2917BFD800A38034 /* Contenarwa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B4D2917BFD800A38034 /* Contenarwa.swift */; };
-		89CA5B502917BFE600A38034 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B4F2917BFE600A38034 /* Post.swift */; };
-		89CA5B522917BFEE00A38034 /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89CA5B512917BFEE00A38034 /* Chat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,6 +98,10 @@
 		56F439F0291452FB00C81A36 /* PaymentButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentButton.swift; sourceTree = "<group>"; };
 		56F439F22914531C00C81A36 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		56F439F42914543700C81A36 /* SweaterShopApp.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; name = SweaterShopApp.entitlements; path = ../../../1/SweaterShopApp/SweaterShopApp.entitlements; sourceTree = "<group>"; };
+		898892CB29191EB400B15E68 /* intrest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intrest.swift; sourceTree = "<group>"; };
+		898892CD29191EE100B15E68 /* post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = post.swift; sourceTree = "<group>"; };
+		898892CF29191EFD00B15E68 /* chat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chat.swift; sourceTree = "<group>"; };
+		898892D1291948DB00B15E68 /* FYP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FYP.swift; sourceTree = "<group>"; };
 		89CA5AE72917689F00A38034 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		89CA5B2229176EDD00A38034 /* CamandAlbumApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamandAlbumApp.swift; sourceTree = "<group>"; };
 		89CA5B2429176F0100A38034 /* ContentViewcam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewcam.swift; sourceTree = "<group>"; };
@@ -112,9 +117,6 @@
 		89CA5B472917AE0A00A38034 /* account2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = account2.swift; sourceTree = "<group>"; };
 		89CA5B492917AE4900A38034 /* getStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getStart.swift; sourceTree = "<group>"; };
 		89CA5B4B2917AE6D00A38034 /* contenview2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contenview2.swift; sourceTree = "<group>"; };
-		89CA5B4D2917BFD800A38034 /* Contenarwa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Contenarwa.swift; path = ../../Contenarwa.swift; sourceTree = "<group>"; };
-		89CA5B4F2917BFE600A38034 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Post.swift; path = ../../Post.swift; sourceTree = "<group>"; };
-		89CA5B512917BFEE00A38034 /* Chat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chat.swift; path = ../../Chat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,10 +172,10 @@
 				89CA5AE72917689F00A38034 /* Info.plist */,
 				56F439F42914543700C81A36 /* SweaterShopApp.entitlements */,
 				89CA5B2A2917890B00A38034 /* LaunchScreen.storyboard */,
-				89CA5B4D2917BFD800A38034 /* Contenarwa.swift */,
-				89CA5B512917BFEE00A38034 /* Chat.swift */,
-				89CA5B4F2917BFE600A38034 /* Post.swift */,
+				898892CB29191EB400B15E68 /* intrest.swift */,
 				89CA5B342917898C00A38034 /* Login.swift */,
+				898892CD29191EE100B15E68 /* post.swift */,
+				898892CF29191EFD00B15E68 /* chat.swift */,
 				89CA5B362917899300A38034 /* CreatAccount.swift */,
 				89CA5B382917899900A38034 /* ComCode.swift */,
 				89CA5B492917AE4900A38034 /* getStart.swift */,
@@ -183,6 +185,7 @@
 				566709E92909768C00CCD04F /* homeApp.swift */,
 				89CA5B412917ACDE00A38034 /* secondbage.swift */,
 				566709EB2909768C00CCD04F /* ContentView.swift */,
+				898892D1291948DB00B15E68 /* FYP.swift */,
 				56AD72F5290EA392005443F5 /* GRIDviwe.swift */,
 				56AD72F9290FF076005443F5 /* SwiftUIView.swift */,
 				56670A1329097D6000CCD04F /* TabBar.swift */,
@@ -374,6 +377,7 @@
 			files = (
 				89CA5B372917899300A38034 /* CreatAccount.swift in Sources */,
 				89CA5B4C2917AE6D00A38034 /* contenview2.swift in Sources */,
+				898892D2291948DB00B15E68 /* FYP.swift in Sources */,
 				56F439F32914531C00C81A36 /* Product.swift in Sources */,
 				89CA5B3B2917899E00A38034 /* Password.swift in Sources */,
 				89CA5B392917899900A38034 /* ComCode.swift in Sources */,
@@ -384,21 +388,21 @@
 				89CA5B352917898C00A38034 /* Login.swift in Sources */,
 				89CA5B2329176EDD00A38034 /* CamandAlbumApp.swift in Sources */,
 				89CA5B422917ACDE00A38034 /* secondbage.swift in Sources */,
-				89CA5B502917BFE600A38034 /* Post.swift in Sources */,
 				56AD72FA290FF076005443F5 /* SwiftUIView.swift in Sources */,
 				89CA5B482917AE0A00A38034 /* account2.swift in Sources */,
+				898892CE29191EE100B15E68 /* post.swift in Sources */,
 				56F439E3291451F500C81A36 /* CartManager.swift in Sources */,
 				566709EC2909768C00CCD04F /* ContentView.swift in Sources */,
 				56C81EA32911556E0045A605 /* postchat.swift in Sources */,
 				56F439E72914525100C81A36 /* ContentViewserv.swift in Sources */,
-				89CA5B522917BFEE00A38034 /* Chat.swift in Sources */,
 				89CA5B2729176F2100A38034 /* UIViewControllerRepresentable.swift in Sources */,
 				56C81EA52911642D0045A605 /* Account.swift in Sources */,
 				56F439EB2914529A00C81A36 /* ProductCard.swift in Sources */,
+				898892D029191EFD00B15E68 /* chat.swift in Sources */,
 				56F439EF291452DD00C81A36 /* ProductRow.swift in Sources */,
 				56F439E92914527200C81A36 /* CartView.swift in Sources */,
 				56F439E52914521D00C81A36 /* PaymentHandler.swift in Sources */,
-				89CA5B4E2917BFD800A38034 /* Contenarwa.swift in Sources */,
+				898892CC29191EB400B15E68 /* intrest.swift in Sources */,
 				89CA5B2929176F4200A38034 /* Coordinator.swift in Sources */,
 				56AD73002910016A005443F5 /* aaaaa.swift in Sources */,
 				89CA5B4A2917AE4900A38034 /* getStart.swift in Sources */,
