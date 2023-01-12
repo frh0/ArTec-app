@@ -7,7 +7,6 @@ Therefore we create get art, *where artists and ppl who are interested in art ca
 
 ## Features
 ***
-creating a list 
 -  Explore your other talented people
 - create a profile 
 -  post art ( with camera)
