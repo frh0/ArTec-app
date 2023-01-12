@@ -8,15 +8,15 @@ Therefore we create get art, *where artists and ppl who are interested in art ca
 ## Features
 ***
 creating a list 
-1. Explore your other talented people
-2. create a profile 
-3. post art ( with camera)
-4. sell art (with apple pay option )
+-  Explore your other talented people
+- create a profile 
+-  post art ( with camera)
+-  sell art (with apple pay option )
 
 ## Requierements
 ***
-Xcode 14
-iPhone with A12 Bionic CPU and later running iOS 16
+- Xcode 14
+- iPhone with A12 Bionic CPU and later running iOS 16
 
 ## Installation
 ***
