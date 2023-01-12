@@ -1,6 +1,6 @@
 # ArTec-app
 
-## **you can use this app to upload your art or explore the for you page and also you can select your intrest, Listen to your art 
+## ** you can use this app to upload your art or explore the for you page and also you can select your intrest, Listen to your art 
 ## As you may know art is the way of the most ancient way of communicating menkind have ever known ! 
 Therefore we create get art, *where artists and ppl who are interested in art can communicate and share their passion**
 ![0](https://user-images.githubusercontent.com/90031791/204267539-1890bc60-9b8c-49ce-9d67-b75fb38ac21e.jpeg)
